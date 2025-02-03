@@ -5,8 +5,8 @@ This is some Linux code to complete the task assigned by my teacher Ms.Cheng.
 Build a file system through Linux to implement operations such as adding, deleting, modifying and checking.
 
 # Requirements
-VMware work station
-Ubuntu 20/22/24 (these are all ok)
+- VMware work station
+- Ubuntu 20/22/24 (these are all ok)
 
 # Run the code
 First,you must install some tools to compile the c.
